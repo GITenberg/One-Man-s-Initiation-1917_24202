@@ -1,0 +1,29 @@
+_repo: One-Man-s-Initiation-1917_24202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dos Passos, John
+    alias: Passos, John Dos
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '2015'
+    url: http://www.gutenberg.org/2009/agents/2015
+    wikipedia: http://en.wikipedia.org/wiki/John_Dos_Passos
+description: ''
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+title: One Man's Initiation—1917
+url: http://www.gutenberg.org/ebooks/24202
